@@ -1,0 +1,10 @@
+/Users/superball/Projects/MapNormal/iOS/bin/iPhoneSimulator/Debug/MapNormal.iOS.exe
+/Users/superball/Projects/MapNormal/iOS/bin/iPhoneSimulator/Debug/MapNormal.iOS.pdb
+/Users/superball/Projects/MapNormal/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/superball/Projects/MapNormal/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/superball/Projects/MapNormal/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/superball/Projects/MapNormal/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/superball/Projects/MapNormal/iOS/obj/iPhoneSimulator/Debug/MapNormal.iOS.csprojResolveAssemblyReference.cache
+/Users/superball/Projects/MapNormal/iOS/obj/iPhoneSimulator/Debug/MapNormal.iOS.csproj.CoreCompileInputs.cache
+/Users/superball/Projects/MapNormal/iOS/obj/iPhoneSimulator/Debug/MapNormal.iOS.exe
+/Users/superball/Projects/MapNormal/iOS/obj/iPhoneSimulator/Debug/MapNormal.iOS.pdb
